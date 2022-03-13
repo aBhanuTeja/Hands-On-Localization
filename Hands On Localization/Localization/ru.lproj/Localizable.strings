@@ -1,0 +1,56 @@
+// Home screen data
+"Home.Settings"                 = "Настройки";
+"Home.whatIsNew"                = "Что нового";
+"Home.BackUpAndSynchronise"     = "Sauvegarder et synchroniser les données";
+"Home.Passwords"                = "Пароли";
+"Home.TurnOnNightMode"          = "Включите ночной режим";
+"Home.BlockImages"              = "Блокировать изображения";
+"Home.ReadingList"              = "Список для чтения";
+"Home.Downloads"                = "Загрузки";
+"Home.History"                  = "История";
+"Home.Bookmarks"                = "Закладки";
+
+//Settings screen data
+"Settings.SetAsDefaultBrowser"              = "Сделать браузером по умолчанию";
+"Settings.SetAsDefaultBrowser.FooterText"   = "Настройте ссылки с веб-сайтов, электронных писем и сообщений для автоматического открытия в Firefox.";
+
+"Settings.SignInToSync.HeaderText"      = "АККАУНТ FIREFOX";
+"Settings.SignInToSync"                 = "Войдите, чтобы синхронизировать";
+"Settings.SignInToSync.FooterText"      = "Get your tabs, bookmarks and passwords from your other devices.";
+
+"Settings.General.HeaderText"                           = "ОБЩАЯ";
+"Settings.General.Language"                             = "Язык";
+"Settings.General.Search"                               = "Поиск";
+"Settings.General.NewTab"                               = "Новая вкладка";
+"Settings.General.Homepage"                             = "Домашняя страница";
+"Settings.General.MailApp"                              = "Почтовое приложение";
+"Settings.General.Theme"                                = "Тема";
+"Settings.General.SiriShortcuts"                        = "Быстрые команды Siri";
+"Settings.General.BlockPopup"                           = "Блокировать всплывающие окна";
+"Settings.General.OpenCopiedLinks"                      = "Предложение открыть скопированные ссылки";
+"Settings.General.OpenCopiedLinks.HelperText"           = "При открытии Firefox";
+"Settings.General.ShowLinkPreviews"                     = "Показать превью ссылок";
+"Settings.General.ShowLinkPreviews.HelperText"          = "При долгом нажатии на ссылки";
+
+"Settings.Privacy.HeaderText"                           = "КОНФИДЕНЦИАЛЬНОСТЬ";
+"Settings.Privacy.Login.And.Passwords"                  = "Логины и пароли";
+"Settings.Privacy.DataManagement"                       = "Управление данными";
+"Settings.Privacy.ClosePrivateTabs"                     = "Закрыть приватные вкладки";
+"Settings.Privacy.ClosePrivateTabs.HelperText"          = "При выходе из приватного просмотра";
+"Settings.Privacy.TrackingProtection"                   = "Защита от слежения";
+"Settings.Privacy.PrivacyPolicy"                        = "Политика конфиденциальности";
+
+"Settings.Support.HeaderText"                           = "СЛУЖБА ПОДДЕРЖКИ";
+"Settings.Support.ShowTour"                             = "Показать тур";
+"Settings.Support.SendFeedback"                         = "Отправить отзыв";
+"Settings.Support.SendUsageData"                        = "Отправить данные об использовании";
+"Settings.Support.SendUsageData.HelperText"             = "Mozilla стремится собирать только то, что нам нужно, чтобы предоставлять и улучшать Firefox для всех. Ларн Мор.";
+"Settings.Support.Studies"                              = "Исследования";
+"Settings.Support.Studies.HelperText"                   = "Firefox может время от времени устанавливать и запускать исследования. Ларн Мор.";
+"Settings.Support.Help"                                 = "Помощь";
+
+"Settings.About.HeaderText"                           = "О";
+"Settings.About.RateOnAppStore"                       = "Оценить в App Store";
+"Settings.About.FireFoxDaylight"                      = "Дневной свет Firefox";
+"Settings.About.Licenses"                             = "Лицензии";
+"Settings.About.YourRights"                           = "Ваши права";

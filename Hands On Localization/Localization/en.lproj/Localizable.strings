@@ -1,0 +1,56 @@
+// Home screen data
+"Home.Settings"                 = "Settings";
+"Home.whatIsNew"                = "What's New";
+"Home.BackUpAndSynchronise"     = "Back up and Synchronise Data";
+"Home.Passwords"                = "Passwords";
+"Home.TurnOnNightMode"          = "Turn on Night Mode";
+"Home.BlockImages"              = "Block Images";
+"Home.ReadingList"              = "Reading List";
+"Home.Downloads"                = "Downloads";
+"Home.History"                  = "History";
+"Home.Bookmarks"                = "Bookmarks";
+
+//Settings screen data
+"Settings.SetAsDefaultBrowser"              = "Set as Default Browser";
+"Settings.SetAsDefaultBrowser.FooterText"   = "Set links from web sites, emails and Messages to open automatically in Firefox.";
+
+"Settings.SignInToSync.HeaderText"      = "FIREFOX ACCOUNT";
+"Settings.SignInToSync"                 = "Sign in to Sync";
+"Settings.SignInToSync.FooterText"      = "Get your tabs, bookmarks and passwords from your other devices.";
+
+"Settings.General.HeaderText"                           = "GENERAL";
+"Settings.General.Language"                             = "Language";
+"Settings.General.Search"                               = "Search";
+"Settings.General.NewTab"                               = "New Tab";
+"Settings.General.Homepage"                             = "Homepage";
+"Settings.General.MailApp"                              = "Mail App";
+"Settings.General.Theme"                                = "Theme";
+"Settings.General.SiriShortcuts"                        = "Siri Shortcuts";
+"Settings.General.BlockPopup"                           = "Block Pop-up Windows";
+"Settings.General.OpenCopiedLinks"                      = "Offer to open Copied Links";
+"Settings.General.OpenCopiedLinks.HelperText"           = "When Opening Firefox";
+"Settings.General.ShowLinkPreviews"                     = "Show Link Previews";
+"Settings.General.ShowLinkPreviews.HelperText"          = "When Long-pressing Links";
+
+"Settings.Privacy.HeaderText"                           = "PRIVACY";
+"Settings.Privacy.Login.And.Passwords"                  = "Logins & Passwords";
+"Settings.Privacy.DataManagement"                       = "Data Management";
+"Settings.Privacy.ClosePrivateTabs"                     = "Close Private Tabs";
+"Settings.Privacy.ClosePrivateTabs.HelperText"          = "When Leaving Private Browsing";
+"Settings.Privacy.TrackingProtection"                   = "Tracking Protection";
+"Settings.Privacy.PrivacyPolicy"                        = "Privacy Policy";
+
+"Settings.Support.HeaderText"                           = "SUPPORT";
+"Settings.Support.ShowTour"                             = "Show Tour";
+"Settings.Support.SendFeedback"                         = "Send Feedback";
+"Settings.Support.SendUsageData"                        = "Send Usage Data";
+"Settings.Support.SendUsageData.HelperText"             = "Mozilla strives to only collect what we need to provide and improve Firefox for everyone. Larn More.";
+"Settings.Support.Studies"                              = "Studies";
+"Settings.Support.Studies.HelperText"                   = "Firefox may install and run studies from time to time. Larn More.";
+"Settings.Support.Help"                                 = "Help";
+
+"Settings.About.HeaderText"                           = "ABOUT";
+"Settings.About.RateOnAppStore"                       = "Rate on App Store";
+"Settings.About.FireFoxDaylight"                      = "Firefox Daylight";
+"Settings.About.Licenses"                             = "Licenses";
+"Settings.About.YourRights"                           = "Your Rights";

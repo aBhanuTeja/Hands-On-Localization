@@ -1,0 +1,56 @@
+// Home screen data
+"Home.Settings"                 = "إعدادات";
+"Home.whatIsNew"                = "ما هو الجديد";
+"Home.BackUpAndSynchronise"     = "النسخ الاحتياطي ومزامنة البيانات";
+"Home.Passwords"                = "كلمات السر";
+"Home.TurnOnNightMode"          = "قم بتشغيل الوضع الليلي";
+"Home.BlockImages"              = "حظر الصور";
+"Home.ReadingList"              = "قائمة القراءة";
+"Home.Downloads"                = "التحميلات";
+"Home.History"                  = "تاريخ";
+"Home.Bookmarks"                = "إشارات مرجعية";
+
+//Settings screen data
+"Settings.SetAsDefaultBrowser"              = "على النحو المستعرض الافتراضي";
+"Settings.SetAsDefaultBrowser.FooterText"   = "قم بتعيين الروابط من مواقع الويب ورسائل البريد الإلكتروني والرسائل ليتم فتحها تلقائيًا في Firefox.";
+
+"Settings.SignInToSync.HeaderText"      = "حساب فايرفوكس";
+"Settings.SignInToSync"                 = "سجّل الدخول للمزامنة";
+"Settings.SignInToSync.FooterText"      = "احصل على علامات التبويب والإشارات المرجعية وكلمات المرور من أجهزتك الأخرى.";
+
+"Settings.General.HeaderText"                           = "جنرال لواء";
+"Settings.General.Language"                             = "لغة";
+"Settings.General.Search"                               = "بحث";
+"Settings.General.NewTab"                               = "علامة تبويب جديدة";
+"Settings.General.Homepage"                             = "الصفحة الرئيسية";
+"Settings.General.MailApp"                              = "تطبيق البريد";
+"Settings.General.Theme"                                = "سمة";
+"Settings.General.SiriShortcuts"                        = "اختصارات Siri";
+"Settings.General.BlockPopup"                           = "نوافذ كتلة منبثقة";
+"Settings.General.OpenCopiedLinks"                      = "اعرض فتح الروابط المنسوخة";
+"Settings.General.OpenCopiedLinks.HelperText"           = "عند فتح Firefox";
+"Settings.General.ShowLinkPreviews"                     = "إظهار معاينات الارتباط";
+"Settings.General.ShowLinkPreviews.HelperText"          = "عندما طويلة الملحة الروابط";
+
+"Settings.Privacy.HeaderText"                           = "الإجمالية";
+"Settings.Privacy.Login.And.Passwords"                  = "تسجيلات الدخول وكلمات المرور";
+"Settings.Privacy.DataManagement"                       = "إدارة البيانات";
+"Settings.Privacy.ClosePrivateTabs"                     = "إغلاق علامات التبويب الخاصة";
+"Settings.Privacy.ClosePrivateTabs.HelperText"          = "عند ترك التصفح الخاص";
+"Settings.Privacy.TrackingProtection"                   = "حماية التتبع";
+"Settings.Privacy.PrivacyPolicy"                        = "سياسة خاصة";
+
+"Settings.Support.HeaderText"                           = "الدعم";
+"Settings.Support.ShowTour"                             = "مشاهدة جولة";
+"Settings.Support.SendFeedback"                         = "ارسل رأيك";
+"Settings.Support.SendUsageData"                        = "إرسال بيانات الاستخدام";
+"Settings.Support.SendUsageData.HelperText"             = "تسعى Mozilla جاهدة لجمع ما نحتاجه فقط لتوفير Firefox وتحسينه للجميع. لارن مور.";
+"Settings.Support.Studies"                              = "دراسات";
+"Settings.Support.Studies.HelperText"                   = "قد يقوم Firefox بتثبيت وتشغيل الدراسات من وقت لآخر. لارن مور.";
+"Settings.Support.Help"                                 = "مساعدة";
+
+"Settings.About.HeaderText"                           = "حول";
+"Settings.About.RateOnAppStore"                       = "معدل على متجر التطبيقات";
+"Settings.About.FireFoxDaylight"                      = "Firefox ضوء النهار";
+"Settings.About.Licenses"                             = "التراخيص";
+"Settings.About.YourRights"                           = "حقوقك";

@@ -1,0 +1,56 @@
+// Home screen data
+"Home.Settings"                 = "Réglages";
+"Home.whatIsNew"                = "Quoi de neuf";
+"Home.BackUpAndSynchronise"     = "Sauvegarder et synchroniser les données";
+"Home.Passwords"                = "Mots de passe";
+"Home.TurnOnNightMode"          = "Activer le mode nuit";
+"Home.BlockImages"              = "Bloquer les images";
+"Home.ReadingList"              = "Liste de lecture";
+"Home.Downloads"                = "Téléchargements";
+"Home.History"                  = "Histoire";
+"Home.Bookmarks"                = "Signets";
+
+//Settings screen data
+"Settings.SetAsDefaultBrowser"              = "Défini comme navigateur par défaut";
+"Settings.SetAsDefaultBrowser.FooterText"   = "Configurez les liens des sites Web, des e-mails et des messages pour qu'ils s'ouvrent automatiquement dans Firefox.";
+
+"Settings.SignInToSync.HeaderText"      = "COMPTE FIREFOX";
+"Settings.SignInToSync"                 = "Connectez-vous pour synchroniser";
+"Settings.SignInToSync.FooterText"      = "Obtenez vos onglets, signets et mots de passe de vos autres appareils";
+
+"Settings.General.HeaderText"                           = "GÉNÉRALE";
+"Settings.General.Language"                             = "Langue";
+"Settings.General.Search"                               = "Rechercher";
+"Settings.General.NewTab"                               = "Nouvel onglet";
+"Settings.General.Homepage"                             = "Page d'accueil";
+"Settings.General.MailApp"                              = "Application de messagerie";
+"Settings.General.Theme"                                = "Thème";
+"Settings.General.SiriShortcuts"                        = "Atajos de Siri";
+"Settings.General.BlockPopup"                           = "Bloquer les fenêtres contextuelles";
+"Settings.General.OpenCopiedLinks"                      = "Offre d'ouverture des liens copiés";
+"Settings.General.OpenCopiedLinks.HelperText"           = "Lors de l'ouverture de Firefox";
+"Settings.General.ShowLinkPreviews"                     = "Afficher les aperçus des liens";
+"Settings.General.ShowLinkPreviews.HelperText"          = "Lorsque vous appuyez longuement sur des liens";
+
+"Settings.Privacy.HeaderText"                           = "INTIMITÉ";
+"Settings.Privacy.Login.And.Passwords"                  = "Identifiants et mots de passe";
+"Settings.Privacy.DataManagement"                       = "Gestion de données";
+"Settings.Privacy.ClosePrivateTabs"                     = "Fermer les onglets privés";
+"Settings.Privacy.ClosePrivateTabs.HelperText"          = "En quittant la navigation privée";
+"Settings.Privacy.TrackingProtection"                   = "Protection contre le suivi";
+"Settings.Privacy.PrivacyPolicy"                        = "Politique de confidentialité";
+
+"Settings.Support.HeaderText"                           = "SUPPORT";
+"Settings.Support.ShowTour"                             = "Visite du spectacle";
+"Settings.Support.SendFeedback"                         = "Envoyer des commentaires";
+"Settings.Support.SendUsageData"                        = "Envoyer les données d'utilisation";
+"Settings.Support.SendUsageData.HelperText"             = "Mozilla s'efforce de ne collecter que ce dont nous avons besoin pour fournir et améliorer Firefox pour tous. Larn Plus.";
+"Settings.Support.Studies"                              = "Études";
+"Settings.Support.Studies.HelperText"                   = "Firefox peut installer et exécuter des études de temps à autre. Larn Plus.";
+"Settings.Support.Help"                                 = "Aider";
+
+"Settings.About.HeaderText"                           = "SUR";
+"Settings.About.RateOnAppStore"                       = "Évaluer sur l'App Store";
+"Settings.About.FireFoxDaylight"                      = "Lumière du jour de Firefox";
+"Settings.About.Licenses"                             = "Licences";
+"Settings.About.YourRights"                           = "Tes droits";
